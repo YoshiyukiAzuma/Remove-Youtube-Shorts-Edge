@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"name": "Remove YouTube Shorts (Edge)",
+ 	"version": "1.0.1",
+	"description": "An extension to convert a YouTube Shorts IU to the normal video page.",
+	"background": {
+		"service_worker": "3.js"
+	},
+	"permissions": ["tabs"]
+}
